@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\core",
+    "\\media",
+    "\\media\\images",
+    "\\orders",
+    "\\static",
+    "\\store",
+    "\\store\\migrations",
+    "\\store\\migrations\\__pycache__",
+    "\\store\\__pycache__"
+  ],
+  "SelectedNode": "\\store\\__pycache__\\__init__.cpython-38.pyc",
+  "PreviewInSolutionExplorer": false
+}
